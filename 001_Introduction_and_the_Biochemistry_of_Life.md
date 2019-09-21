@@ -54,6 +54,10 @@ electronegativity of O N >> S C H P
 
 Hydrophobic molecules clump togheter to avoid disrupting hydrogen bonds e.g. oil
 
+Tworzone przez polar bonds
+
+to do: obrazek membrany, 
+
 ## Van der Waals forces
 
 A weak bond involving fluctuating partial charges between adjacent uncharged molecules. Can be strong when many are put together.
